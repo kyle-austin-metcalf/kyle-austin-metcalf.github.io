@@ -1,3 +1,5 @@
+Theme: Hacker
+
 # Welcome to my website.
 
 ## My name is Kyle Metcalf. I have my BA in Psychology and I am currently studyng programming.
