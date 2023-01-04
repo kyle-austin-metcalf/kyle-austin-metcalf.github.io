@@ -1,16 +1,9 @@
 # Welcome to my website.
 
-## My name is Kyle Metcalf. I have my BA in Psychology and I am currently studyng programming.
+##My name is Kyle Metcalf and I hold a Bachelor's degree in Psychology. I am currently studying programming and am passionate about using technology to solve real-world problems and improve people's lives.
 
-## Here are a few things I am interested in:
- Building an application to help organize out political system? 
- I think it would be interesting to build a card with stats for each politician.
+## One area of interest for me is building applications to help improve the efficiency and transparency of our political system. I am considering developing a tool that displays key information and statistics about politicians in an easily digestible format.
  
-## I am also very interested in robotics. I think they could become a great help to people who
-  cannot take care of themselves. I thnk people should stil have human interection but people who
-  arent able to care for themselves and are older shouldnt have to only depend on their family
-  alone. Having 24 hour care can cose about $150,000 a year. 
+## I am also deeply interested in robotics and their potential to assist individuals who are unable to care for themselves. While I believe it is important for humans to have interpersonal interactions, I believe that robotics can play a role in providing round-the-clock care for those in need at a lower cost than traditional options such as hiring a full-time caregiver. 
 
-## I would also like to build a website that allows people to understand themselves more. 
-  I like certain personality assesments based on the big five. What insights could these tests
-  offer?
+## Finally, I am considering creating a website that helps individuals better understand themselves through personality assessments based on the "Big Five" personality  traits. I believe that such tests can offer valuable insights into one's own strengths and weaknesses and help individuals make informed decisions about their personal and professional lives.
