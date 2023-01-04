@@ -16,4 +16,3 @@ Theme: Hacker
 ## I would also like to build a website that allows people to understand themselves more. 
   I like certain personality assesments based on the big five. What insights could these tests
   offer?
-  
