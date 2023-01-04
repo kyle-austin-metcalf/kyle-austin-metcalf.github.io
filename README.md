@@ -1,4 +1,4 @@
-Theme: Hacker
+theme: hacker
 
 # Welcome to my website.
 
