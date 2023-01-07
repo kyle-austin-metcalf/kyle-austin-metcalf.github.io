@@ -13,4 +13,4 @@ Click link [Free-Big-Five-Personality-test] www.sapa-project.org
 
 Click link [Build-your-own AI-generated-videos] https://colab.research.google.com/github/deforum/stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb
 
-Click [Video-I-made-with-stable-diffusion] https://youtu.be/QyowBO3uxIQ
+Click link [Video-I-made-with-stable-diffusion] https://youtu.be/QyowBO3uxIQ
